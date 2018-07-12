@@ -70,7 +70,7 @@ Qlf=10
 Qaf=100
 Qpf=100
 Vr=0,08
-Fr=37
+Fr=35
 Qlr=10
 Qar=100
 Qpr=100
@@ -93,7 +93,7 @@ Isobarik=0
 alfaVC=0,0039
 dTVC=0
 Sdfport=0
-Sdrport=0,0163425649839741
+Sdrport=0,0173180295029137
 
 [VentFront]
 Num=1
@@ -110,12 +110,12 @@ crosscalc=1
 [VentRear]
 Num=2
 Shape=1
-Fb=37
+Fb=35
 Vb=0,08
-dia1=0,102
+dia1=0,105
 dia2=0,102
-carea=0,00817128249198705
-len=0,371799524122442
+carea=0,00865901475145687
+len=0,451867131940851
 endcorrection=0,732
 crosscalc=1
 

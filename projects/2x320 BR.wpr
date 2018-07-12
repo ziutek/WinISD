@@ -69,8 +69,8 @@ Ff=0
 Qlf=10
 Qaf=100
 Qpf=100
-Vr=0,125
-Fr=34
+Vr=0,128
+Fr=35
 Qlr=10
 Qar=100
 Qpr=100
@@ -93,7 +93,7 @@ Isobarik=0
 alfaVC=0,0039
 dTVC=0
 Sdfport=0
-Sdrport=0,0173180295029137
+Sdrport=0,0186265028431339
 
 [VentFront]
 Num=1
@@ -108,14 +108,14 @@ endcorrection=0,732
 crosscalc=1
 
 [VentRear]
-Num=2
+Num=1
 Shape=1
-Fb=34
-Vb=0,125
-dia1=0,105
+Fb=35
+Vb=0,128
+dia1=0,154
 dia2=0,102
-carea=0,00865901475145687
-len=0,281723106783414
+carea=0,0186265028431339
+len=0,242694127582461
 endcorrection=0,732
 crosscalc=1
 
@@ -137,7 +137,7 @@ Width=1
 
 [SignalSource]
 Rg=0,1
-P=100
+P=400,9
 
 [Filters]
 Count=0
