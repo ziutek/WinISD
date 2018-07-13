@@ -2,7 +2,7 @@
 Description=
 Creator=michal
 CreateDate=20180712
-ModifyDate=20180712
+ModifyDate=20180713
 
 [Driver]
 Brand=STX
@@ -93,7 +93,7 @@ Isobarik=0
 alfaVC=0,0039
 dTVC=0
 Sdfport=0
-Sdrport=0,0186265028431339
+Sdrport=0,00967689077121996
 
 [VentFront]
 Num=1
@@ -112,10 +112,10 @@ Num=1
 Shape=1
 Fb=35
 Vb=0,128
-dia1=0,154
+dia1=0,111
 dia2=0,102
-carea=0,0186265028431339
-len=0,242694127582461
+carea=0,00967689077121996
+len=0,103397858068119
 endcorrection=0,732
 crosscalc=1
 
