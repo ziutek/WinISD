@@ -2,7 +2,7 @@
 Description=
 Creator=michal
 CreateDate=20180711
-ModifyDate=20180712
+ModifyDate=20180716
 
 [Driver]
 Brand=STX
@@ -137,7 +137,7 @@ Width=1
 
 [SignalSource]
 Rg=0,1
-P=100
+P=125
 
 [Filters]
 Count=0

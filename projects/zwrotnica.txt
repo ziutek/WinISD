@@ -1,0 +1,11 @@
+High pass (D.12.800.8.TI):
+
+R1: 5.1 Ohm
+C1: 2.7 uF PET
+L1: 0.4 mH (<0.4 Ohm)
+C2: 10 uF PET
+
+Low pass (W.32.500.8.MC):
+
+L2: 1 mH (<0.3 Ohm)
+C3: 10 uF PET
