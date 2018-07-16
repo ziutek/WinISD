@@ -1,6 +1,6 @@
 High pass (D.12.800.8.TI):
 
-R1: 5.1 Ohm
+R1: 5.1 Ohm 20 W
 C1: 2.7 uF PET
 L1: 0.4 mH (<0.4 Ohm)
 C2: 10 uF PET
