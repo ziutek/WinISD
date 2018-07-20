@@ -34,7 +34,7 @@
  2 //PartType
  1 //RefDes
    //Part#
-  0.001 //Value
+  0.00075 //Value
   0.35 //ESR
   300 //Rating
   122 //position X
@@ -54,7 +54,7 @@
  1 //PartType
  2 //RefDes
    //Part#
-  6.8E-6 //Value
+  7.5E-6 //Value
   0.05 //ESR
   250 //Rating
   119 //position X
@@ -94,7 +94,7 @@
  1 //PartType
  3 //RefDes
    //Part#
-  7.8E-5 //Value
+  7.5E-5 //Value
   0.04 //ESR
   250 //Rating
   122 //position X
@@ -136,7 +136,7 @@
    //Part#
   7.5 //Value
   -1 //ESR
-  10 //Rating
+  6 //Rating
   116 //position X
   88 //position Y
   F  //Is Horizontal
@@ -151,7 +151,7 @@
   0 //ESR tolerance for search
   0 //Tolerance of chosen part tol
    //vendor of part number
-9 //Grounds
+10 //Grounds
 3 //Lines Per Ground
  132 //position X
   87 //position Y
@@ -175,32 +175,25 @@
   104 //position Y
   -1 //Subckt#,-1 if none
  132 //position X
-  106 //position Y
+  107 //position Y
   -1 //Subckt#,-1 if none
  128 //position X
   91 //position Y
   -1 //Subckt#,-1 if none
+ 132 //position X
+  61 //position Y
+  -1 //Subckt#,-1 if none
 6 //Wires
 5 //Lines Per Wire
- 128 //End1 X
-  67 //End1 Y
-  128 //End2 X
-  85 //End2 Y
-  -1 //Subckt#,-1 if none
  129 //End1 X
-  104 //End1 Y
+  105 //End1 Y
   132 //End2 X
-  104 //End2 Y
+  105 //End2 Y
   -1 //Subckt#,-1 if none
  122 //End1 X
   98 //End1 Y
   132 //End2 X
   98 //End2 Y
-  -1 //Subckt#,-1 if none
- 129 //End1 X
-  98 //End1 Y
-  129 //End2 X
-  104 //End2 Y
   -1 //Subckt#,-1 if none
  116 //End1 X
   91 //End1 Y
@@ -208,13 +201,23 @@
   98 //End2 Y
   -1 //Subckt#,-1 if none
  128 //End1 X
+  59 //End1 Y
+  128 //End2 X
+  85 //End2 Y
+  -1 //Subckt#,-1 if none
+ 128 //End1 X
   76 //End1 Y
   132 //End2 X
   76 //End2 Y
   -1 //Subckt#,-1 if none
+ 129 //End1 X
+  98 //End1 Y
+  129 //End2 X
+  105 //End2 Y
+  -1 //Subckt#,-1 if none
 0 //Texts
 6 //Lines Per Text
-5 //Drivers
+6 //Drivers
 34 //Lines Per Driver
 !Driver 0
   1 //RefDes
@@ -444,7 +447,7 @@ D.14.1000.8.TI-195x155.frd //frd filename
   F //Muted
   10 //Rating
   0 //dBGain
-  0.000184593392442599 //Delay
+  0.000296087801477926 //Delay
   0 //Xoffs
   0 //Yoffs
   0 //Zoffs
@@ -1084,7 +1087,7 @@ W.32.500.8.MC.frd //frd filename
    //Name
    //PartNumber
   133 //position X
-  105 //position Y
+  106 //position Y
   F //Inverted
   F //Muted
   10 //Rating
@@ -1113,5 +1116,39 @@ W.32.500.8.MC.frd //frd filename
   0  //rectang. Wt
    //
   T //Z Phase from Hilbert transform
+!Driver 5
+  6 //RefDes
+   //Name
+   //PartNumber
+  133 //position X
+  60 //position Y
+  F //Inverted
+  F //Muted
+  10 //Rating
+  30.0000000000517 //dBGain
+  1.47674713954079E-6 //Delay
+  0 //Xoffs
+  0 //Yoffs
+  0 //Zoffs
+  0 //Htilt
+  0 //Vtilt
+  0 //dia
+   //FRD filename
+   //ZMA filename
+  F //Phase from Hilbert transform
+  100 //Lower Hilbert extrapolation frequency
+  20000 //Upper Hilbert extrapolation frequency
+  12 //Lower Extrapolation slope
+  12 //Upper Extrapolation slope
+  F //Invert Hilbert phase if used
+  0 //Hilbert Delay to add
+  F //get acoust info from a model
+   //ACOUstic FRD filename
+   //Vendor name
+  6.5  //Nominal Dia.
+  0  //rectang. Ht
+  0  //rectang. Wt
+   //
+  F //Z Phase from Hilbert transform
 1 //Setup
 0 //Lines
