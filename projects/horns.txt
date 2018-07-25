@@ -1,0 +1,17 @@
+c = 344000 mm/s
+
+
+HT-1-195x155
+
+S = 160 x 117 mm -> d = 140 mm -> fcd = c / (pi * d) = 782 Hz
+
+l = 112 mm + 0.5*d = 182 mm -> fcl = c / (4 * l) = 472 Hz
+fl2 = 2 * fcl = 944 Hz
+
+
+HT-1-214x215
+
+S = 180 x 187 mm -> d = 183.5 mm -> fcd = c / (pi * d) = 567 Hz
+
+l = 172.5 mm + 0.5*d = 264 mm -> fcl = c / (4 * l) = 326 Hz
+fl2 = 2 * fcl = 652 Hz
