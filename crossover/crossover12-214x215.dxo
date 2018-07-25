@@ -14,7 +14,7 @@
  1 //PartType
  1 //RefDes
    //Part#
-  1.87E-5 //Value
+  2E-5 //Value
   0.05 //ESR
   250 //Rating
   125 //position X
@@ -34,8 +34,8 @@
  2 //PartType
  1 //RefDes
    //Part#
-  0.00075 //Value
-  0.4 //ESR
+  0.00082 //Value
+  0.76 //ESR
   300 //Rating
   122 //position X
   88 //position Y
@@ -54,7 +54,7 @@
  1 //PartType
  2 //RefDes
    //Part#
-  4.7E-6 //Value
+  5.6E-6 //Value
   0.05 //ESR
   250 //Rating
   119 //position X
@@ -94,7 +94,7 @@
  1 //PartType
  3 //RefDes
    //Part#
-  8.2E-5 //Value
+  9.1E-5 //Value
   0.04 //ESR
   250 //Rating
   122 //position X
@@ -134,7 +134,7 @@
  0 //PartType
  2 //RefDes
    //Part#
-  3.6 //Value
+  3.9 //Value
   -1 //ESR
   6 //Rating
   116 //position X
@@ -467,11 +467,11 @@ D.12.80.8.TI-195x155.frd //frd filename
    //PartNumber
   133 //position X
   77 //position Y
-  T //Inverted
+  F //Inverted
   F //Muted
   10 //Rating
   0 //dBGain
-  0 //Delay
+  0.000295349427908158 //Delay
   0 //Xoffs
   0 //Yoffs
   0 //Zoffs
