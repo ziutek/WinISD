@@ -1,8 +1,8 @@
 [ProjectInfo]
 Description=
 Creator=michal
-CreateDate=20180711
-ModifyDate=20180812
+CreateDate=20180810
+ModifyDate=20180810
 
 [Driver]
 Brand=STX
@@ -70,7 +70,7 @@ Qlf=10
 Qaf=100
 Qpf=100
 Vr=0,13
-Fr=32
+Fr=36
 Qlr=10
 Qar=100
 Qpr=100
@@ -87,7 +87,7 @@ p=101325
 phi=0,3
 d=1
 Med=0
-Nd=2
+Nd=3
 Angle=0
 Isobarik=0
 alfaVC=0,0039
@@ -110,12 +110,12 @@ crosscalc=1
 [VentRear]
 Num=2
 Shape=1
-Fb=32
+Fb=36
 Vb=0,13
 dia1=0,105
 dia2=0,102
 carea=0,00865901475145687
-len=0,312377221530975
+len=0,230685458987437
 endcorrection=0,732
 crosscalc=1
 
@@ -132,12 +132,12 @@ endcorrection=0,732
 crosscalc=1
 
 [PlotSettings]
-Color=4194432
+Color=1355540
 Width=1
 
 [SignalSource]
-Rg=0,2
-P=149,437735849057
+Rg=0,1
+P=226,415094339623
 
 [Filters]
 Count=0

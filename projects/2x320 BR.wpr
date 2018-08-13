@@ -2,7 +2,7 @@
 Description=
 Creator=michal
 CreateDate=20180712
-ModifyDate=20180716
+ModifyDate=20180812
 
 [Driver]
 Brand=STX
@@ -69,8 +69,8 @@ Ff=0
 Qlf=10
 Qaf=100
 Qpf=100
-Vr=0,128
-Fr=35
+Vr=0,13001
+Fr=32
 Qlr=10
 Qar=100
 Qpr=100
@@ -93,7 +93,7 @@ Isobarik=0
 alfaVC=0,0039
 dTVC=0
 Sdfport=0
-Sdrport=0,00967689077121996
+Sdrport=0,00865901475145687
 
 [VentFront]
 Num=1
@@ -110,12 +110,12 @@ crosscalc=1
 [VentRear]
 Num=1
 Shape=1
-Fb=35
-Vb=0,128
-dia1=0,111
+Fb=32
+Vb=0,13001
+dia1=0,105
 dia2=0,102
-carea=0,00967689077121996
-len=0,103397858068119
+carea=0,00865901475145687
+len=0,117743641254622
 endcorrection=0,732
 crosscalc=1
 
@@ -136,7 +136,7 @@ Color=16711935
 Width=1
 
 [SignalSource]
-Rg=0,1
+Rg=0,2
 P=148,1
 
 [Filters]
