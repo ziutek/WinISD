@@ -2,19 +2,19 @@
 7 //Lines
   2.82842712474619 //Vrms
   F //Inverted
-  113 //position X
+  107 //position X
   100 //position Y
   0 //overall delay
   1 //Power
   8 //Ohms for Power level
 0 //Subckts
 27 //Lines Per Subckt
-7 //Passives
+8 //Passives
 20 //Lines Per Passive
  1 //PartType
  1 //RefDes
    //Part#
-  9.53E-6 //Value
+  2E-5 //Value
   0.05 //ESR
   250 //Rating
   125 //position X
@@ -34,8 +34,8 @@
  2 //PartType
  1 //RefDes
    //Part#
-  0.00075 //Value
-  0.35 //ESR
+  0.00068 //Value
+  1 //ESR
   300 //Rating
   122 //position X
   88 //position Y
@@ -54,7 +54,7 @@
  1 //PartType
  2 //RefDes
    //Part#
-  6.8E-6 //Value
+  1E-5 //Value
   0.05 //ESR
   250 //Rating
   119 //position X
@@ -75,7 +75,7 @@
  2 //RefDes
    //Part#
   0.0011 //Value
-  0.35 //ESR
+  0.2 //ESR
   300 //Rating
   119 //position X
   98 //position Y
@@ -94,7 +94,7 @@
  1 //PartType
  3 //RefDes
    //Part#
-  8.2E-5 //Value
+  7.5E-5 //Value
   0.04 //ESR
   250 //Rating
   122 //position X
@@ -114,7 +114,7 @@
  0 //PartType
  1 //RefDes
    //Part#
-  5.6 //Value
+  4.7 //Value
   -1 //ESR
   10 //Rating
   128 //position X
@@ -134,7 +134,7 @@
  0 //PartType
  2 //RefDes
    //Part#
-  8.2 //Value
+  5.6 //Value
   -1 //ESR
   6 //Rating
   116 //position X
@@ -151,7 +151,27 @@
   0 //ESR tolerance for search
   0 //Tolerance of chosen part tol
    //vendor of part number
-10 //Grounds
+ 0 //PartType
+ 3 //RefDes
+   //Part#
+  0.1 //Value
+  -1 //ESR
+  10 //Rating
+  113 //position X
+  98 //position Y
+  T  //Is Horizontal
+  1 //StepMode
+  0 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
+9 //Grounds
 3 //Lines Per Ground
  132 //position X
   87 //position Y
@@ -168,7 +188,7 @@
  132 //position X
   100 //position Y
   -1 //Subckt#,-1 if none
- 116 //position X
+ 110 //position X
   102 //position Y
   -1 //Subckt#,-1 if none
  122 //position X
@@ -180,10 +200,7 @@
  128 //position X
   91 //position Y
   -1 //Subckt#,-1 if none
- 121 //position X
-  70 //position Y
-  -1 //Subckt#,-1 if none
-7 //Wires
+5 //Wires
 5 //Lines Per Wire
  122 //End1 X
   98 //End1 Y
@@ -205,24 +222,14 @@
   132 //End2 X
   85 //End2 Y
   -1 //Subckt#,-1 if none
- 117 //End1 X
-  80 //End1 Y
-  128 //End2 X
-  80 //End2 Y
-  -1 //Subckt#,-1 if none
  128 //End1 X
   68 //End1 Y
   128 //End2 X
   85 //End2 Y
   -1 //Subckt#,-1 if none
- 117 //End1 X
-  68 //End1 Y
-  117 //End2 X
-  80 //End2 Y
-  -1 //Subckt#,-1 if none
 0 //Texts
 6 //Lines Per Text
-6 //Drivers
+5 //Drivers
 34 //Lines Per Driver
 !Driver 0
   1 //RefDes
@@ -242,7 +249,7 @@
   0 //Vtilt
   0 //dia
   D.12.80.8.TI-195x155.frd //FRD filename
-  D.12.80.8.TI.zma //ZMA filename
+  D.12.80.8.TI-new.zma //ZMA filename
   T //Phase from Hilbert transform
   334.25 //Lower Hilbert extrapolation frequency
   20000 //Upper Hilbert extrapolation frequency
@@ -378,81 +385,62 @@ D.12.80.8.TI-195x155.frd //frd filename
 22407	96.257
 **END FRD 1 for driver 0
 **ZMA Data for driver 0
-32.8246	5.7664
-37.6777	6.0114
-41.966	5.7523
-48.656	6.081
-55.431	6.1578
-60.515	6.3213
-64.107	6.571
-67.402	6.1465
-71.404	6.5647
-74.513	6.7309
-84.041	6.6397
-96.707	6.7159
-109.348	6.8774
-137.369	7.1172
-161.274	6.9393
-190.291	6.8454
-228.503	6.6662
-276.462	6.7396
-325.389	6.7301
-363.333	6.6395
-396.652	6.6344
-433.03	6.9666
-470.39	7.1305
-516.11	7.2937
-559.23	7.795
-604.44	8.3807
-637.13	8.9679
-663.22	9.4715
-683.52	10.5659
-718.71	11.9964
-742.61	14.524
-769.24	17.0515
-786.88	19.3267
-808.93	20.6742
-833.66	21.1784
-867.73	20.0799
-903.12	17.2952
-949.39	13.9196
-1005.62	11.4711
-1084.06	9.6961
-1198.34	8.6785
-1378.95	8.5861
-1559.22	9.0849
-1745.51	10.1745
-1983.65	10.926
-2127.85	10.5847
-2485.57	9.8168
-2679.64	9.3066
-3052.66	8.7932
-3451.67	8.9547
-3777.6	8.6122
-4144.6	7.9323
-4513.3	7.7588
-4890.2	7.4169
-5460.6	7.7478
-6097.3	7.5728
-6808.2	7.1448
-7395.5	7.3087
-8175.6	7.4715
-8970.3	7.7191
-9502.9	8.2217
-10169	9.3139
-10799.2	8.5516
-11967.9	8.0398
-13806.7	8.706
-15186.7	8.8692
-17172.6	10.0425
-18239.2	11.894
-18562.9	12.7362
-19322.3	12.3966
-20263.4	10.9605
-20776.8	10.0315
-21465.5	10.3669
-22739.2	10.1106
-23968.3	10.0233
+10	6.485
+24.124	6.464
+54.591	6.461
+116.65	6.457
+229.62	6.608
+347.12	6.812
+420.54	7.136
+504.5	7.546
+561.25	8.195
+638.9	9.803
+675.5	11.925
+702.6	14.012
+726.1	16.117
+747.8	18.273
+768.9	20.138
+799.8	21.318
+841.5	20.428
+854	18.905
+879.6	16.801
+904.5	14.61
+936.2	12.146
+975.4	10.999
+1022.9	9.784
+1103	8.603
+1215.1	7.747
+1310.3	7.507
+1464.8	7.986
+1569.3	8.875
+1648.4	9.696
+1745.8	10.997
+1824.8	12.468
+1870.3	14.401
+1913.7	16.061
+1961.4	17.652
+2010.2	19.073
+2090.9	19.979
+2196.3	19.243
+2262.1	18.063
+2322.3	16.163
+2399.7	13.921
+2451.4	11.697
+2562.4	10.67
+2763.2	9.643
+3043.9	8.924
+3504.9	8.29
+4218.5	7.998
+4897.4	7.98
+5846.3	8.27
+6911	8.561
+7880	8.885
+10094	9.637
+11971	10.149
+14220	10.85
+16644	11.483
+19578	12.184
+22618	12.816
 **END ZMA Data for driver 0
 !Driver 1
   2 //RefDes
@@ -578,13 +566,90 @@ D.12.80.8.TI-214x215.frd //frd filename
 21944	99.958
 22443	101.799
 **END FRD 1 for driver 1
+**ZMA Data for driver 1
+32.8246	5.7664
+37.6777	6.0114
+41.966	5.7523
+48.656	6.081
+55.431	6.1578
+60.515	6.3213
+64.107	6.571
+67.402	6.1465
+71.404	6.5647
+74.513	6.7309
+84.041	6.6397
+96.707	6.7159
+109.348	6.8774
+137.369	7.1172
+161.274	6.9393
+190.291	6.8454
+228.503	6.6662
+276.462	6.7396
+325.389	6.7301
+363.333	6.6395
+396.652	6.6344
+433.03	6.9666
+470.39	7.1305
+516.11	7.2937
+559.23	7.795
+604.44	8.3807
+637.13	8.9679
+663.22	9.4715
+683.52	10.5659
+718.71	11.9964
+742.61	14.524
+769.24	17.0515
+786.88	19.3267
+808.93	20.6742
+833.66	21.1784
+867.73	20.0799
+903.12	17.2952
+949.39	13.9196
+1005.62	11.4711
+1084.06	9.6961
+1198.34	8.6785
+1378.95	8.5861
+1559.22	9.0849
+1745.51	10.1745
+1983.65	10.926
+2127.85	10.5847
+2485.57	9.8168
+2679.64	9.3066
+3052.66	8.7932
+3451.67	8.9547
+3777.6	8.6122
+4144.6	7.9323
+4513.3	7.7588
+4890.2	7.4169
+5460.6	7.7478
+6097.3	7.5728
+6808.2	7.1448
+7395.5	7.3087
+8175.6	7.4715
+8970.3	7.7191
+9502.9	8.2217
+10169	9.3139
+10799.2	8.5516
+11967.9	8.0398
+13806.7	8.706
+15186.7	8.8692
+17172.6	10.0425
+18239.2	11.894
+18562.9	12.7362
+19322.3	12.3966
+20263.4	10.9605
+20776.8	10.0315
+21465.5	10.3669
+22739.2	10.1106
+23968.3	10.0233
+**END ZMA Data for driver 1
 !Driver 2
   3 //RefDes
   D12 318x150 //Name
    //PartNumber
   133 //position X
   86 //position Y
-  F //Inverted
+  T //Inverted
   F //Muted
   10 //Rating
   0 //dBGain
@@ -596,7 +661,7 @@ D.12.80.8.TI-214x215.frd //frd filename
   0 //Vtilt
   0 //dia
   D.12.80.8.TI-318x150.frd //FRD filename
-  D.12.80.8.TI.zma //ZMA filename
+  D.12.80.8.TI-new.zma //ZMA filename
   T //Phase from Hilbert transform
   228.92 //Lower Hilbert extrapolation frequency
   20000 //Upper Hilbert extrapolation frequency
@@ -698,6 +763,64 @@ D.12.80.8.TI-318x150.frd //frd filename
 21639	103.898
 22131	99.379
 **END FRD 1 for driver 2
+**ZMA Data for driver 2
+10	6.485
+24.124	6.464
+54.591	6.461
+116.65	6.457
+229.62	6.608
+347.12	6.812
+420.54	7.136
+504.5	7.546
+561.25	8.195
+638.9	9.803
+675.5	11.925
+702.6	14.012
+726.1	16.117
+747.8	18.273
+768.9	20.138
+799.8	21.318
+841.5	20.428
+854	18.905
+879.6	16.801
+904.5	14.61
+936.2	12.146
+975.4	10.999
+1022.9	9.784
+1103	8.603
+1215.1	7.747
+1310.3	7.507
+1464.8	7.986
+1569.3	8.875
+1648.4	9.696
+1745.8	10.997
+1824.8	12.468
+1870.3	14.401
+1913.7	16.061
+1961.4	17.652
+2010.2	19.073
+2090.9	19.979
+2196.3	19.243
+2262.1	18.063
+2322.3	16.163
+2399.7	13.921
+2451.4	11.697
+2562.4	10.67
+2763.2	9.643
+3043.9	8.924
+3504.9	8.29
+4218.5	7.998
+4897.4	7.98
+5846.3	8.27
+6911	8.561
+7880	8.885
+10094	9.637
+11971	10.149
+14220	10.85
+16644	11.483
+19578	12.184
+22618	12.816
+**END ZMA Data for driver 2
 !Driver 3
   4 //RefDes
    //Name
@@ -1124,39 +1247,5 @@ W.32.500.8.MC.frd //frd filename
   0  //rectang. Wt
    //
   T //Z Phase from Hilbert transform
-!Driver 5
-  6 //RefDes
-   //Name
-   //PartNumber
-  122 //position X
-  69 //position Y
-  F //Inverted
-  F //Muted
-  10 //Rating
-  30.0000000001551 //dBGain
-  0 //Delay
-  0 //Xoffs
-  0 //Yoffs
-  0 //Zoffs
-  0 //Htilt
-  0 //Vtilt
-  0 //dia
-   //FRD filename
-   //ZMA filename
-  F //Phase from Hilbert transform
-  100 //Lower Hilbert extrapolation frequency
-  20000 //Upper Hilbert extrapolation frequency
-  12 //Lower Extrapolation slope
-  12 //Upper Extrapolation slope
-  F //Invert Hilbert phase if used
-  0 //Hilbert Delay to add
-  F //get acoust info from a model
-   //ACOUstic FRD filename
-   //Vendor name
-  6.5  //Nominal Dia.
-  0  //rectang. Ht
-  0  //rectang. Wt
-   //
-  F //Z Phase from Hilbert transform
 1 //Setup
 0 //Lines
