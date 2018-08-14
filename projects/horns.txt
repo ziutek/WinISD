@@ -8,14 +8,15 @@ l = 112 mm + 0.5*d = 182 mm -> fcl = c / (4 * l) = 472 Hz
 fl2 = 2 * fcl = 944 Hz
 
 
+MRH-83 (242x198)
+
+S = 205 x 165 mm -> d = 186 mm -> fcd = c / (pi * d) = 589 Hz
+l = 138 mm + 0.5*d = 231 mm -> fcl = c / (4 * l) = 372 Hz
+fl2 = 2 * fcl = 744 Hz
+
+
 HT-1-214x215
 
 S = 180 x 187 mm -> d = 183.5 mm -> fcd = c / (pi * d) = 567 Hz
 l = 172.5 mm + 0.5*d = 264 mm -> fcl = c / (4 * l) = 326 Hz
 fl2 = 2 * fcl = 652 Hz
-
-MRH-83
-
-S = 205 x 165 mm -> d = 186 mm -> fcd = c / (pi * d) = 589 Hz
-l = 143 mm + 0.5*d = 236 mm -> fcl = c / (4 * l) = 364 Hz
-fl2 = 2 * fcl = 728 Hz
