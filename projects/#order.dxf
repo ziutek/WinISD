@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-1844.578185256992
+2157.483991388966
  22
-478.0569379883647
+166.4591857083671
  13
 0
  23
@@ -1149,9 +1149,9 @@ AcDbViewportTableRecord
  37
 0
  40
-3233.649288091108
+3100.032107867512
  41
-0.8172942817294282
+0.9693165969316597
  42
 50
  43
@@ -2297,7 +2297,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-standard
+STANDARD
  70
     0
  40
@@ -2311,7 +2311,7 @@ standard
  42
 1
   3
-standard
+STANDARD
   4
 
   0
@@ -2325,7 +2325,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-STANDARD
+standard
  70
     0
  40
@@ -2339,7 +2339,7 @@ STANDARD
  42
 1
   3
-STANDARD
+standard
   4
 
   0
