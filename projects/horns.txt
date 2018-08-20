@@ -6,7 +6,7 @@ For exponential horns:
 - cutoff freq.: fc = m * c / (4 * pi)
 - mouth freq.:  fs = c / (2 * sqrt(pi * Sl))
 
-If Sl = pi * r^2 then fs = c / (2 * r) = c / d
+If Sl = pi * r^2 then fs = c / (2 * pi * r) = c / C
 
 
 STX HT-1-195-155
