@@ -59,3 +59,21 @@ Sl = 284 mm x 165 mm = 46860 mm^2
  m = 0.02166
 fc = 593 Hz
 fs = 448 Hz
+
+Dayton H08RW
+
+S0 = 506.7 mm2
+Sl = pi * 91.6^2 = 26360 mm^2
+ l = 121 mm
+ m = 0.03266
+fc = 894 Hz
+fs = 598 Hz
+
+Dayton H10RW
+
+S0 = 506.7 mm2
+Sl = pi * 117^2 = 43005 mm^2
+ l = 127 mm
+ m = 0.03497
+fc = 957 Hz
+fs = 468 Hz
