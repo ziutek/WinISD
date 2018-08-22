@@ -1,34 +1,79 @@
-c = 344000 mm/s
+Speed of sound: c = 344000 mm/s
+
+For exponential horns:
+
+- flare rate:    m = ln(Sl/S0) / l
+- cutoff freq.: fc = m * c / (4 * pi)
+- mouth freq.:  fs = c / (2 * sqrt(pi * Sl))
+
+If Sl = pi * r^2 then fs = c / (2 * pi * r) = c / C
 
 
 STX HT-1-195-155
 
-S = 160 x 117 mm -> d = 140 mm -> fcd = c / (pi * d) = 782 Hz
-l = 112 mm + 0.5*d = 182 mm -> fcl = c / (4 * l) = 472 Hz
-fl2 = 2 * fcl = 944 Hz
+S0 = 506.7 mm2
+Sl = 160 mm x 117 mm = 18720 mm^2
+ l = 112 mm
+ m = 0.03223
+fc = 882 Hz
+fs = 709 Hz
+
 
 STX HB-1-249-194
 (copy of Eminence SST1 ? http://www.audioxpress.com/article/test-bench-eminence-n151m-8-1-compression-driver)
 
-S = 152 x 207 mm -> d = 182 mm -> fcd = c / (pi * d) = 602 Hz
-l = 132 mm + 0.5*d = 223 mm -> fcl = c / (4 * l) = 385 Hz
-fl2 = 2 * fcl = 770 Hz
+S0 = 506.7 mm2
+Sl = 207 mm x 160 mm = 33120 mm^2
+ l = 132 mm
+ m = 0.03167
+fc = 867 Hz
+fs = 533 Hz
+
 
 Monacor MRH-83 (242x198)
 
-S = 205 x 165 mm -> d = 186 mm -> fcd = c / (pi * d) = 589 Hz
-l = 138 mm + 0.5*d = 231 mm -> fcl = c / (4 * l) = 372 Hz
-fl2 = 2 * fcl = 744 Hz
+S0 = 506.7 mm2
+Sl = 205 mm x 165 mm = 33825 mm^2
+ l = 138 mm
+ m = 0.03044
+fc = 833 Hz
+fs = 528 Hz
+
 
 STX HT-1-214-215
 
-S = 180 x 187 mm -> d = 183.5 mm -> fcd = c / (pi * d) = 567 Hz
-l = 172.5 mm + 0.5*d = 264 mm -> fcl = c / (4 * l) = 326 Hz
-fl2 = 2 * fcl = 652 Hz
+S0 = 506.7 mm2
+Sl = 180 mm x 187 mm = 33660 mm^2
+ l = 172.5 mm
+ m = 0.02433
+fc = 656 Hz
+fs = 529 Hz
+
 
 STX HB-1-318-199
 (copy of Celestion H1-9040P ? http://www.audioxpress.com/article/test-bench-celestion-cdx1-1742-1-exit-pro-sound-compression-driver)
 
-S = 284 x 165 mm -> d = 223 mm -> fcd = c / (pi * d) = 491 Hz
-l = 209 + 0.5*d = 320.5 mm -> fcl = c / (4 * l) = 268 Hz
-fl2 = 2 * fcl = 536 Hz
+S0 = 506.7 mm2
+Sl = 284 mm x 165 mm = 46860 mm^2
+ l = 209 mm
+ m = 0.02166
+fc = 593 Hz
+fs = 448 Hz
+
+Dayton H08RW
+
+S0 = 506.7 mm2
+Sl = pi * 91.6^2 = 26360 mm^2
+ l = 121 mm
+ m = 0.03266
+fc = 894 Hz
+fs = 598 Hz
+
+Dayton H10RW
+
+S0 = 506.7 mm2
+Sl = pi * 117^2 = 43005 mm^2
+ l = 127 mm
+ m = 0.03497
+fc = 957 Hz
+fs = 468 Hz
