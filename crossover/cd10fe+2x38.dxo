@@ -2,7 +2,7 @@
 7 //Lines
   2.82842712474619 //Vrms
   F //Inverted
-  118 //position X
+  112 //position X
   64 //position Y
   0 //overall delay
   1 //Power
@@ -11,37 +11,17 @@
 27 //Lines Per Subckt
 7 //Passives
 20 //Lines Per Passive
- 0 //PartType
- 1 //RefDes
-   //Part#
-  8 //Value
-  -1 //ESR
-  10 //Rating
-  139 //position X
-  65 //position Y
-  F  //Is Horizontal
-  0 //StepMode
-  1 //0short/1val/2open
-  -1 //Subckt#,-1 if none
-  //No Subckt equation1
-  //No Subckt equation2
-  F  //Is HighSpec
-  0 //Specd component manuf tolerance
-  0 //Search tolerance for nom values
-  0 //ESR tolerance for search
-  0 //Tolerance of chosen part tol
-   //vendor of part number
  2 //PartType
  1 //RefDes
    //Part#
-  0.00032 //Value
+  0.00044 //Value
   0.5 //ESR
   300 //Rating
-  133 //position X
+  127 //position X
   65 //position Y
   F  //Is Horizontal
   1 //StepMode
-  1 //0short/1val/2open
+  2 //0short/1val/2open
   -1 //Subckt#,-1 if none
   //No Subckt equation1
   //No Subckt equation2
@@ -54,14 +34,34 @@
  1 //PartType
  1 //RefDes
    //Part#
-  1.77E-5 //Value
+  1.65E-5 //Value
+  0.05 //ESR
+  250 //Rating
+  124 //position X
+  62 //position Y
+  T  //Is Horizontal
+  1 //StepMode
+  0 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
+ 1 //PartType
+ 2 //RefDes
+   //Part#
+  8.24E-5 //Value
   0.05 //ESR
   250 //Rating
   130 //position X
   62 //position Y
   T  //Is Horizontal
   1 //StepMode
-  1 //0short/1val/2open
+  0 //0short/1val/2open
   -1 //Subckt#,-1 if none
   //No Subckt equation1
   //No Subckt equation2
@@ -74,34 +74,14 @@
  0 //PartType
  2 //RefDes
    //Part#
-  6.8 //Value
+  8 //Value
   -1 //ESR
   10 //Rating
-  124 //position X
-  62 //position Y
-  T  //Is Horizontal
-  1 //StepMode
-  1 //0short/1val/2open
-  -1 //Subckt#,-1 if none
-  //No Subckt equation1
-  //No Subckt equation2
-  F  //Is HighSpec
-  0 //Specd component manuf tolerance
-  0 //Search tolerance for nom values
-  0 //ESR tolerance for search
-  0 //Tolerance of chosen part tol
-   //vendor of part number
- 0 //PartType
- 3 //RefDes
-   //Part#
-  3.4 //Value
-  -1 //ESR
-  10 //Rating
-  121 //position X
-  59 //position Y
+  133 //position X
+  65 //position Y
   F  //Is Horizontal
   1 //StepMode
-  1 //0short/1val/2open
+  2 //0short/1val/2open
   -1 //Subckt#,-1 if none
   //No Subckt equation1
   //No Subckt equation2
@@ -111,17 +91,17 @@
   0 //ESR tolerance for search
   0 //Tolerance of chosen part tol
    //vendor of part number
- 1 //PartType
- 2 //RefDes
+ 0 //PartType
+ 1 //RefDes
    //Part#
-  5.3E-5 //Value
-  0.05 //ESR
-  250 //Rating
-  136 //position X
+  10 //Value
+  -1 //ESR
+  10 //Rating
+  118 //position X
   62 //position Y
   T  //Is Horizontal
   1 //StepMode
-  1 //0short/1val/2open
+  0 //0short/1val/2open
   -1 //Subckt#,-1 if none
   //No Subckt equation1
   //No Subckt equation2
@@ -134,10 +114,10 @@
  1 //PartType
  3 //RefDes
    //Part#
-  5.6E-6 //Value
+  1E-6 //Value
   0.05 //ESR
   250 //Rating
-  124 //position X
+  118 //position X
   56 //position Y
   T  //Is Horizontal
   1 //StepMode
@@ -151,30 +131,50 @@
   0 //ESR tolerance for search
   0 //Tolerance of chosen part tol
    //vendor of part number
+ 0 //PartType
+ 4 //RefDes
+   //Part#
+  10 //Value
+  -1 //ESR
+  10 //Rating
+  115 //position X
+  59 //position Y
+  F  //Is Horizontal
+  1 //StepMode
+  1 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
 4 //Grounds
 3 //Lines Per Ground
- 121 //position X
+ 115 //position X
   66 //position Y
   -1 //Subckt#,-1 if none
- 143 //position X
-  64 //position Y
-  -1 //Subckt#,-1 if none
- 139 //position X
+ 127 //position X
   68 //position Y
   -1 //Subckt#,-1 if none
  133 //position X
   68 //position Y
   -1 //Subckt#,-1 if none
+ 137 //position X
+  64 //position Y
+  -1 //Subckt#,-1 if none
 2 //Wires
 5 //Lines Per Wire
- 127 //End1 X
-  56 //End1 Y
-  127 //End2 X
+ 133 //End1 X
+  62 //End1 Y
+  137 //End2 X
   62 //End2 Y
   -1 //Subckt#,-1 if none
- 139 //End1 X
-  62 //End1 Y
-  143 //End2 X
+ 121 //End1 X
+  56 //End1 Y
+  121 //End2 X
   62 //End2 Y
   -1 //Subckt#,-1 if none
 0 //Texts
@@ -185,7 +185,7 @@
   1 //RefDes
    //Name
    //PartNumber
-  144 //position X
+  138 //position X
   63 //position Y
   F //Inverted
   F //Muted
@@ -199,7 +199,7 @@
   0 //Vtilt
   0 //dia
   CD-10Fe_N.frd //FRD filename
-  CD-10Fe_N.zma //ZMA filename
+  CD-10FE_N.zma //ZMA filename
   T //Phase from Hilbert transform
   200 //Lower Hilbert extrapolation frequency
   20000 //Upper Hilbert extrapolation frequency
