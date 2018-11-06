@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-3077.271551055614
+1254.914439890505
  22
-382.0206795206215
+-1286.91766749204
  13
 0
  23
@@ -1149,9 +1149,9 @@ AcDbViewportTableRecord
  37
 0
  40
-3862.419024987498
+104.7378357868428
  41
-1.680874316939891
+1.814814814814815
  42
 50
  43
@@ -3981,7 +3981,7 @@ AcDbMText
   1
 407 x 1380  :  4 szt\P300 x 1380  :  4 szt\P300 x 370  :  11 szt\P148 x 380  :  4 szt\P148 x 370  :  2 szt
   7
-STANDARD
+standard
 210
 0
 220
@@ -4147,7 +4147,7 @@ AcDbMText
   1
 300 x 370
   7
-
+STANDARD
 210
 0
 220
@@ -4193,7 +4193,7 @@ AcDbMText
   1
 300 x 370
   7
-
+STANDARD
 210
 0
 220
@@ -4239,7 +4239,7 @@ AcDbMText
   1
 300 x 370
   7
-
+STANDARD
 210
 0
 220
@@ -4285,7 +4285,7 @@ AcDbMText
   1
 300 x 370
   7
-
+STANDARD
 210
 0
 220
@@ -4595,7 +4595,7 @@ AcDbMText
   1
 148\Px\P370
   7
-
+STANDARD
 210
 0
 220
@@ -4641,7 +4641,7 @@ AcDbMText
   1
 148\Px\P370
   7
-
+STANDARD
 210
 0
 220
@@ -4759,7 +4759,7 @@ AcDbMText
   1
 148\Px\P380
   7
-
+STANDARD
 210
 0
 220
@@ -4805,7 +4805,7 @@ AcDbMText
   1
 148\Px\P380
   7
-
+STANDARD
 210
 0
 220
@@ -4851,7 +4851,7 @@ AcDbMText
   1
 148\Px\P380
   7
-
+STANDARD
 210
 0
 220
@@ -4897,7 +4897,7 @@ AcDbMText
   1
 148\Px\P380
   7
-
+STANDARD
 210
 0
 220
@@ -4943,7 +4943,7 @@ AcDbMText
   1
 300 x 370
   7
-
+STANDARD
 210
 0
 220
