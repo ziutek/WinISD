@@ -1,0 +1,1030 @@
+1 //VoltageSource
+7 //Lines
+  44.7213595499958 //Vrms
+  F //Inverted
+  114 //position X
+  74 //position Y
+  0 //overall delay
+  250 //Power
+  8 //Ohms for Power level
+0 //Subckts
+27 //Lines Per Subckt
+11 //Passives
+20 //Lines Per Passive
+ 1 //PartType
+ 1 //RefDes
+   //Part#
+  3.6E-5 //Value
+  0.05 //ESR
+  250 //Rating
+  144 //position X
+  75 //position Y
+  F  //Is Horizontal
+  0 //StepMode
+  1 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
+ 0 //PartType
+ 1 //RefDes
+   //Part#
+  3.9 //Value
+  -1 //ESR
+  10 //Rating
+  144 //position X
+  81 //position Y
+  F  //Is Horizontal
+  1 //StepMode
+  1 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
+ 0 //PartType
+ 3 //RefDes
+   //Part#
+  8.2 //Value
+  -1 //ESR
+  0.05 //Rating
+  141 //position X
+  53 //position Y
+  T  //Is Horizontal
+  1 //StepMode
+  1 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
+ 2 //PartType
+ 3 //RefDes
+   //Part#
+  0.0011 //Value
+  0.1 //ESR
+  300 //Rating
+  128 //position X
+  72 //position Y
+  T  //Is Horizontal
+  1 //StepMode
+  1 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
+ 1 //PartType
+ 5 //RefDes
+   //Part#
+  3.3E-5 //Value
+  0.005 //ESR
+  250 //Rating
+  133 //position X
+  75 //position Y
+  F  //Is Horizontal
+  1 //StepMode
+  1 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
+ 1 //PartType
+ 2 //RefDes
+   //Part#
+  6.8E-6 //Value
+  0.05 //ESR
+  250 //Rating
+  141 //position X
+  48 //position Y
+  T  //Is Horizontal
+  1 //StepMode
+  1 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
+ 0 //PartType
+ 4 //RefDes
+   //Part#
+  4.7 //Value
+  -1 //ESR
+  10 //Rating
+  138 //position X
+  56 //position Y
+  F  //Is Horizontal
+  1 //StepMode
+  1 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
+ 0 //PartType
+ 5 //RefDes
+   //Part#
+  4.7 //Value
+  -1 //ESR
+  10 //Rating
+  135 //position X
+  53 //position Y
+  T  //Is Horizontal
+  1 //StepMode
+  1 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
+ 2 //PartType
+ 1 //RefDes
+   //Part#
+  0.0015 //Value
+  0.9 //ESR
+  300 //Rating
+  125 //position X
+  56 //position Y
+  F  //Is Horizontal
+  2 //StepMode
+  1 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
+ 1 //PartType
+ 3 //RefDes
+   //Part#
+  1.2E-5 //Value
+  0.005 //ESR
+  250 //Rating
+  122 //position X
+  53 //position Y
+  T  //Is Horizontal
+  2 //StepMode
+  1 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
+ 2 //PartType
+ 2 //RefDes
+   //Part#
+  0.0002 //Value
+  0.7 //ESR
+  300 //Rating
+  144 //position X
+  56 //position Y
+  F  //Is Horizontal
+  1 //StepMode
+  1 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
+8 //Grounds
+3 //Lines Per Ground
+ 133 //position X
+  78 //position Y
+  -1 //Subckt#,-1 if none
+ 148 //position X
+  74 //position Y
+  -1 //Subckt#,-1 if none
+ 148 //position X
+  55 //position Y
+  -1 //Subckt#,-1 if none
+ 144 //position X
+  84 //position Y
+  -1 //Subckt#,-1 if none
+ 144 //position X
+  59 //position Y
+  -1 //Subckt#,-1 if none
+ 138 //position X
+  59 //position Y
+  -1 //Subckt#,-1 if none
+ 117 //position X
+  76 //position Y
+  -1 //Subckt#,-1 if none
+ 125 //position X
+  59 //position Y
+  -1 //Subckt#,-1 if none
+8 //Wires
+5 //Lines Per Wire
+ 144 //End1 X
+  53 //End1 Y
+  148 //End2 X
+  53 //End2 Y
+  -1 //Subckt#,-1 if none
+ 131 //End1 X
+  72 //End1 Y
+  138 //End2 X
+  72 //End2 Y
+  -1 //Subckt#,-1 if none
+ 138 //End1 X
+  72 //End1 Y
+  148 //End2 X
+  72 //End2 Y
+  -1 //Subckt#,-1 if none
+ 144 //End1 X
+  48 //End1 Y
+  144 //End2 X
+  53 //End2 Y
+  -1 //Subckt#,-1 if none
+ 125 //End1 X
+  53 //End1 Y
+  132 //End2 X
+  53 //End2 Y
+  -1 //Subckt#,-1 if none
+ 117 //End1 X
+  72 //End1 Y
+  125 //End2 X
+  72 //End2 Y
+  -1 //Subckt#,-1 if none
+ 138 //End1 X
+  48 //End1 Y
+  138 //End2 X
+  53 //End2 Y
+  -1 //Subckt#,-1 if none
+ 119 //End1 X
+  53 //End1 Y
+  119 //End2 X
+  72 //End2 Y
+  -1 //Subckt#,-1 if none
+6 //Texts
+6 //Lines Per Text
+In
+  126 //position X
+  75 //position Y
+  8 //Size
+  8388608 //color
+  -1 //Subckt#,-1 if none
+out
+  137 //position X
+  75 //position Y
+  8 //Size
+  8388608 //color
+  -1 //Subckt#,-1 if none
+General Low Pass, 2nd Order
+  128 //position X
+  66 //position Y
+  8 //Size
+  8388608 //color
+  -1 //Subckt#,-1 if none
+In
+  120 //position X
+  56 //position Y
+  8 //Size
+  8388608 //color
+  -1 //Subckt#,-1 if none
+out
+  131 //position X
+  56 //position Y
+  8 //Size
+  8388608 //color
+  -1 //Subckt#,-1 if none
+General High Pass, 2nd Order
+  126 //position X
+  49 //position Y
+  8 //Size
+  8388608 //color
+  -1 //Subckt#,-1 if none
+2 //Drivers
+34 //Lines Per Driver
+!Driver 0
+  1 //RefDes
+   //Name
+   //PartNumber
+  149 //position X
+  54 //position Y
+  T //Inverted
+  F //Muted
+  10 //Rating
+  0 //dBGain
+  0 //Delay
+  0 //Xoffs
+  0 //Yoffs
+  0 //Zoffs
+  0 //Htilt
+  0 //Vtilt
+  0 //dia
+  CD-10Fe_N.frd //FRD filename
+  CD-10FE_N.zma //ZMA filename
+  T //Phase from Hilbert transform
+  450 //Lower Hilbert extrapolation frequency
+  19000 //Upper Hilbert extrapolation frequency
+  18 //Lower Extrapolation slope
+  24 //Upper Extrapolation slope
+  F //Invert Hilbert phase if used
+  0 //Hilbert Delay to add
+  F //get acoust info from a model
+   //ACOUstic FRD filename
+   //Vendor name
+  6.5  //Nominal Dia.
+  0  //rectang. Ht
+  0  //rectang. Wt
+   //
+  T //Z Phase from Hilbert transform
+**FRD 1 for driver 0
+CD-10Fe_N.frd //frd filename
+200	55.143
+212.1	56.286
+217.59	56.534
+222.08	57.177
+231.74	58.286
+238.15	58.891
+245.98	59.5
+254.72	60.106
+267.16	60.714
+278.31	61.32
+292.15	61.891
+304.08	62.32
+328.58	62.534
+339.09	63.143
+346.98	64.034
+354.75	64.606
+363.62	65.391
+375.58	66.32
+392.25	68.106
+400.69	69.391
+411.76	70.571
+428.2	72.643
+440.41	74.034
+457.22	75.429
+477.11	76.749
+497.02	78.249
+521.29	79.749
+553.31	81.429
+567.63	82.286
+591.81	84.391
+610.76	86.643
+621.25	88.643
+631.92	90.393
+641.68	91.536
+653.26	93.036
+662.78	94.857
+671.87	96.536
+686.33	97.714
+696.93	99.143
+709.51	100.536
+726.01	101.679
+741	102.464
+771.26	103.107
+792.56	103.893
+820.72	104.286
+841.96	105.179
+867.43	106.036
+893.67	107.179
+906.7	107.821
+931.75	108.214
+957.49	108.714
+986.46	108.929
+1024.12	108.607
+1062.31	108
+1095.38	107.893
+1137.2	108.5
+1221.53	108.643
+1261.7	107.964
+1304.3	107.429
+1321.07	107.429
+1365.68	108.036
+1403.41	108.786
+1432.38	109.464
+1465.7	109.964
+1521.7	110.25
+1559.7	110.857
+1611	111.679
+1666.8	112.5
+1724.6	112.536
+1770.7	112.036
+1843	111.893
+1921.5	112.036
+1993.2	112.607
+2067.5	113.179
+2144.6	113.357
+2203.9	113.464
+2286.1	113.107
+2361.3	112.857
+2443.1	112.286
+2527.7	111.786
+2617.5	110.714
+2683	109.429
+2740.7	107.893
+2790.2	106.893
+2838.1	106
+2896.7	105.071
+2966.6	104.571
+3015	104.286
+3093	104.536
+3183.9	105.25
+3255.1	105.964
+3330.8	106.893
+3411.2	107.607
+3508.4	108.143
+3617.6	108.429
+3765.4	108.036
+3879.3	107.643
+3969.5	107.036
+4103.6	106.821
+4256.6	106.571
+4389.1	106.25
+4541.2	106
+4690.5	105.679
+4974.4	105.679
+5064.1	104.714
+5159.9	103.964
+5284.4	102.679
+5411.9	101.571
+5552	101.464
+5734.6	101.964
+5918.1	102.321
+6009.5	102.75
+6207.2	102.964
+6466.1	102.929
+6588.4	103.75
+6718.7	104.464
+6939.7	105.286
+7107.2	105.714
+7297.3	105.429
+7563	105.286
+7858.4	104.893
+8020.7	104.25
+8172.3	103.536
+8348.2	103.107
+8630.1	102.857
+8990.1	102.821
+9349.3	103
+9780.9	103.25
+9957.4	102.75
+10215	103
+10390.5	103.714
+10605	104
+10907.3	103.464
+11237.3	102.786
+11430.3	102.571
+11686.2	102.857
+11907.2	103.464
+12132.3	103.75
+12403.9	103.25
+12542	102.25
+12670.8	101.536
+12790.1	101.179
+12976.6	101.393
+13222	101.786
+13541	102.393
+13691.8	103.357
+13926.9	104.214
+14238.7	103.607
+14632	102.25
+14871	101.321
+15178	100.857
+15478	100.929
+15650	101.929
+15851	102.857
+16110	102.107
+16345	100.786
+16668	99.893
+17012	99.5
+17216	98.25
+17319	97.393
+17707	98.321
+17828	99.321
+18011	100.214
+18305	100.643
+18635	100.571
+18988	99.929
+19101	98.75
+19396	97.179
+19612	95.857
+20000	93.964
+**END FRD 1 for driver 0
+**ZMA Data for driver 0
+200	4.8321
+224.44	4.8214
+254.49	4.8429
+291.55	4.8643
+344.51	4.875
+378.06	4.8857
+419.55	4.9125
+477.76	4.9339
+527.45	4.9714
+569.43	4.9929
+602.7	5.0304
+632.46	5.0732
+659.69	5.1054
+720.83	5.2018
+745.43	5.2554
+770.87	5.3089
+797.86	5.4054
+827.22	5.5125
+860.62	5.6679
+880.09	5.7964
+898.46	5.9518
+920.36	6.1714
+937.95	6.4071
+952.59	6.6536
+968.29	6.9
+976.66	7.1679
+993.62	7.6929
+1009.12	8.3411
+1022.23	8.9411
+1036.4	9.8839
+1049.87	10.7411
+1058.94	11.4643
+1067.17	11.8929
+1071.77	12.3643
+1080.11	12.75
+1086.63	13.1679
+1101.7	13.4089
+1121.78	13.1357
+1126.62	12.5786
+1134.4	12.1286
+1141.26	11.6571
+1147.16	11.1911
+1150.13	10.7304
+1156.08	10.3179
+1164.07	9.7929
+1173.12	8.9625
+1181.22	8.5071
+1189.38	8.1375
+1201.72	7.6071
+1214.2	7.2643
+1224.69	6.8786
+1239.53	6.525
+1255.63	6.2143
+1273.04	6.0054
+1297.37	5.7589
+1323.3	5.5714
+1347.43	5.4696
+1385.04	5.3357
+1434.78	5.2607
+1514.7	5.2179
+1597.7	5.2714
+1670.8	5.3304
+1756.3	5.4
+1820.9	5.4804
+1894.5	5.5982
+1950.7	5.7321
+2003.4	5.9411
+2054.1	6.1714
+2095.1	6.4018
+2135.2	6.7018
+2164.8	7.0071
+2192.9	7.3071
+2211.8	7.6071
+2242.5	8.0357
+2261.9	8.4804
+2287.3	9.0911
+2303.1	9.525
+2319	10.1732
+2335	10.6554
+2363.3	11.5929
+2381.7	12.5464
+2402.3	13.0339
+2416.8	13.4839
+2435.6	14.1643
+2471.5	14.3625
+2503.6	13.9554
+2527.4	13.6286
+2542.7	13.1679
+2553.6	12.1875
+2573.5	11.6839
+2589	11.0839
+2613.7	10.1464
+2643.1	9.2571
+2679.7	8.2071
+2716.8	7.7089
+2752.1	7.0875
+2799.9	6.6536
+2863.3	6.2036
+2938.1	5.8929
+2999.4	5.6786
+3112.5	5.4804
+3207.6	5.3518
+3317.1	5.2768
+3541.3	5.2339
+3882.8	5.1804
+4170.3	5.2607
+4588.2	5.2875
+4894.1	5.3679
+5352.2	5.4429
+5713.9	5.5232
+6275.8	5.6196
+6769.4	5.7161
+7422.3	5.8286
+8138.1	5.9571
+8961.4	6.1232
+9558.8	6.2089
+10231.1	6.3429
+10932	6.4768
+11893.8	6.6911
+12664.8	6.8196
+13579	6.9911
+14509	7.1679
+15570	7.3339
+16998	7.5482
+18462	7.7625
+20000	7.95
+**END ZMA Data for driver 0
+!Driver 1
+  2 //RefDes
+   //Name
+   //PartNumber
+  149 //position X
+  73 //position Y
+  F //Inverted
+  F //Muted
+  10 //Rating
+  0 //dBGain
+  -0.000443024141862237 //Delay
+  0 //Xoffs
+  0 //Yoffs
+  0 //Zoffs
+  0 //Htilt
+  0 //Vtilt
+  0 //dia
+  2xW32.frd //FRD filename
+  2xW32-BR17.zma //ZMA filename
+  T //Phase from Hilbert transform
+  25 //Lower Hilbert extrapolation frequency
+  9000 //Upper Hilbert extrapolation frequency
+  12 //Lower Extrapolation slope
+  18 //Upper Extrapolation slope
+  F //Invert Hilbert phase if used
+  0 //Hilbert Delay to add
+  F //get acoust info from a model
+   //ACOUstic FRD filename
+   //Vendor name
+  6.5  //Nominal Dia.
+  0  //rectang. Ht
+  0  //rectang. Wt
+   //
+  T //Z Phase from Hilbert transform
+**FRD 1 for driver 1
+2xW32.frd //frd filename
+20.0 79.4
+21.2 81.0
+22.8 83.0
+24.6 85.0
+26.8 87.0
+28.0 88.0
+29.3 89.0
+30.8 90.0
+32.8 91.0
+35.1 92.0
+38.3 93.0
+43.6 94.0
+49.1 94.5
+50.7 94.6
+53   94.7
+55.7 94.8
+59   94.89
+64   94.98
+70   95.04
+80   95.10
+90   95.13 
+100  95.16
+122  95.18
+145  95.19
+175  95.20
+206.96 95.23
+215.42 94.994
+227.4 95.353
+235.28 95.632
+252.37 95.952
+269.09 96.111
+288.06 96.471
+303.47 96.67
+323.57 96.471
+341.55 96.232
+359.1 95.874
+367.84 95.595
+391.42 95.515
+411.53 95.236
+426.64 94.957
+445.87 94.559
+462.25 94.24
+476.35 93.802
+489.91 93.204
+514.04 93.045
+542.62 93.045
+558.06 92.886
+585.56 93.085
+615.64 93.245
+648.6 93.405
+664.4 93.405
+683.3 93.724
+702.7 94.003
+716.9 94.362
+732.9 94.322
+755.3 94.642
+776.8 95.2
+802.1 95.559
+826.5 95.998
+862.1 96.436
+899.1 96.516
+941.5 96.676
+997.9 96.876
+1036.6 97.075
+1076.8 97.355
+1123.1 97.514
+1190.3 97.156
+1236.5 96.917
+1326.3 96.558
+1388.9 96.359
+1469 95.921
+1516.9 95.682
+1566.3 95.403
+1594.8 95.164
+1646.8 95.563
+1717.6 96.081
+1798.6 96.64
+1857.2 97.039
+1910 97.637
+1940.9 97.956
+1992.1 98.115
+2052.9 97.956
+2086.1 97.597
+2171.4 97.239
+2197.7 97.558
+2251.2 98.435
+2283 98.874
+2310.6 99.273
+2352.6 99.831
+2381.1 100.19
+2424.4 100.589
+2493.4 100.31
+2533.7 99.632
+2585 98.874
+2616.3 98.117
+2679.9 96.323
+2745.2 94.728
+2800.7 93.612
+2857.4 93.054
+2927 93.532
+2968.3 94.09
+3040.6 94.21
+3190.4 94.29
+3248.4 93.812
+3442.8 93.812
+3540.7 93.134
+3626.9 91.5
+3752.6 89.506
+3851.7 88.988
+4025.3 89.228
+4164.7 89.228
+4309.1 88.311
+4361.2 87.633
+4485.3 86.437
+4557.8 85.48
+4631.4 84.523
+4734.6 83.806
+4849.9 83.248
+4987.9 82.969
+5088.8 83.726
+5119.5 84.364
+5212.7 85.042
+5296.9 85.401
+5447.6 83.488
+5458.6 84.644
+5569.1 82.491
+5739 81.255
+5808.4 79.939
+5914.1 78.943
+6009.7 77.906
+6106.8 76.949
+6206 75.514
+6369 73.64
+6485 71.248
+6791 70.53
+6956 69.494
+7083 69.613
+7226 70.052
+7447 69.733
+7567 69.016
+7628 68.178
+7798 67.062
+7877 66.025
+8036 65.707
+8085 66.504
+8133 67.421
+8248 68.298
+8382 67.7
+8483 66.744
+8517 64.67
+8707 63.753
+8955 62.996
+**END FRD 1 for driver 1
+**ZMA Data for driver 1
+ 15.5   14.3
+ 16.30  15.57
+ 17.00  15.75
+ 17.70  14.52
+ 18.40  12.49
+ 19.20  10.25
+ 20.00   8.51
+ 20.80   7.23
+ 21.70   6.07
+ 22.60   5.27
+ 23.60   4.63
+ 24.60   4.17
+ 25.60   3.84
+ 26.70   3.62
+ 27.80   3.49
+ 29.00   3.45
+ 30.20   3.41
+ 31.50   3.45
+ 32.80   3.57
+ 34.20   3.75
+ 35.60   3.97
+ 37.10   4.27
+ 38.70   4.69
+ 40.30   5.15
+ 42.00   5.72
+ 43.80   6.51
+ 45.70   7.57
+ 47.60   8.92
+ 49.60  10.74
+ 51.70  13.08
+ 53.80  15.57
+ 56.10  18.74
+ 58.50  20.08
+ 60.90  18.10
+ 63.50  14.35
+ 66.20  12.35
+ 69.00   9.90
+ 71.90   8.71
+ 74.90   7.84
+ 78.10   6.98
+ 81.40   6.36
+ 84.80   5.93
+ 88.40   6.07
+ 92.10   4.91
+ 96.00   4.63
+100.00   4.37
+104.00   4.32
+109.00   4.07
+113.00   3.97
+118.00   3.84
+123.00   3.79
+128.00   3.70
+133.00   3.62
+139.00   3.53
+145.00   3.41
+151.00   3.41
+157.00   3.37
+164.00   3.41
+171.00   3.66
+178.00   3.41
+186.00   3.33
+194.00   3.33
+202.00   3.29
+210.00   3.29
+219.00   3.29
+228.00   3.29
+238.00   3.33
+248.00   3.33
+258.00   3.37
+269.00   3.41
+281.00   3.41
+292.00   3.45
+305.00   3.53
+318.00   3.57
+331.00   3.62
+345.00   3.70
+359.00   3.79
+375.00   3.84
+390.00   3.93
+407.00   4.02
+424.00   4.17
+442.00   4.27
+460.00   4.37
+480.00   4.47
+500.00   4.58
+521.00   4.58
+543.00   4.52
+566.00   4.63
+590.00   4.69
+615.00   4.74
+640.00   4.80
+667.00   4.85
+696.00   4.91
+725.00   4.97
+755.00   5.03
+787.00   5.09
+820.00   5.21
+855.00   5.33
+891.00   5.40
+929.00   5.59
+968.00   5.72
+1010.00   5.86
+1050.00   5.93
+1100.00   6.14
+1140.00   6.21
+1190.00   6.43
+1240.00   6.51
+1290.00   6.66
+1350.00   6.90
+1400.00   7.06
+1460.00   7.23
+1520.00   7.40
+1590.00   7.66
+1650.00   7.84
+1720.00   8.22
+1800.00   8.71
+1870.00   8.51
+1950.00   8.31
+2030.00   8.71
+2120.00   8.81
+2210.00   8.81
+2300.00   8.92
+2400.00   8.92
+2500.00   9.13
+2610.00   9.34
+2720.00   9.67
+2830.00   9.90
+2950.00  10.13
+3070.00  10.37
+3200.00  10.62
+3340.00  10.86
+3480.00  11.12
+3620.00  11.38
+3780.00  11.65
+3940.00  11.79
+4100.00  12.06
+4270.00  12.20
+4460.00  12.49
+4640.00  12.78
+4840.00  13.08
+5040.00  13.39
+5250.00  13.70
+5480.00  14.03
+5710.00  14.35
+5950.00  14.69
+6200.00  15.04
+6460.00  15.39
+6730.00  15.57
+7010.00  15.93
+7310.00  16.31
+7620.00  16.69
+7940.00  16.88
+8270.00  17.28
+8620.00  17.68
+8990.00  18.10
+9360.00  18.52
+9760.00  18.74
+10200.00  19.18
+10600.00  19.62
+11100.00  20.08
+20000     27
+**END ZMA Data for driver 1
+1 //Setup
+0 //Lines
