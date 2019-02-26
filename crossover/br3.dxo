@@ -7,63 +7,9 @@
   0 //overall delay
   1 //Power
   8 //Ohms for Power level
-2 //Subckts
+0 //Subckts
 27 //Lines Per Subckt
-  General High Pass, 2nd Order //Title subckt#0
-
-
- //Var Name 0
-  0 //Var Val0
-
- //Var Name 1
-  0 //Var Val1
-
-freq //Var Name 2
-  1100 //Var Val2
-filter break frequency, [Hz]
-Q //Var Name 3
-  0.707 //Var Val3
-Q
-R //Var Name 4
-  6 //Var Val4
-Load resistance [ohms]
- //Var Name 5
-  0 //Var Val5
-
-  0 //stepmode 0
-  0 //stepmode 1
-  0 //stepmode 2
-  0 //stepmode 3
-  0 //stepmode 4
-  0 //stepmode 5
-  General Low Pass, 2nd Order //Title subckt#1
-
-
- //Var Name 0
-  0 //Var Val0
-
- //Var Name 1
-  0 //Var Val1
-
-freq //Var Name 2
-  1000 //Var Val2
-filter break frequency, [Hz]
-Q //Var Name 3
-  0.707 //Var Val3
-Q
-R //Var Name 4
-  4 //Var Val4
-Load resistance [ohms]
- //Var Name 5
-  0 //Var Val5
-
-  0 //stepmode 0
-  0 //stepmode 1
-  0 //stepmode 2
-  0 //stepmode 3
-  0 //stepmode 4
-  0 //stepmode 5
-12 //Passives
+13 //Passives
 20 //Lines Per Passive
  1 //PartType
  1 //RefDes
@@ -90,7 +36,7 @@ Load resistance [ohms]
    //Part#
   3.9 //Value
   -1 //ESR
-  10 //Rating
+  20 //Rating
   144 //position X
   81 //position Y
   F  //Is Horizontal
@@ -110,7 +56,7 @@ Load resistance [ohms]
    //Part#
   4.7 //Value
   -1 //ESR
-  0.7 //Rating
+  20 //Rating
   141 //position X
   53 //position Y
   T  //Is Horizontal
@@ -148,9 +94,9 @@ Load resistance [ohms]
  0 //PartType
  5 //RefDes
    //Part#
-  4.7 //Value
+  2.4 //Value
   -1 //ESR
-  10 //Rating
+  20 //Rating
   135 //position X
   53 //position Y
   T  //Is Horizontal
@@ -169,7 +115,7 @@ Load resistance [ohms]
  2 //RefDes
    //Part#
   0.00018 //Value
-  1 //ESR
+  0.9 //ESR
   300 //Rating
   144 //position X
   56 //position Y
@@ -191,7 +137,7 @@ Load resistance [ohms]
   1.5E-6 //Value
   0.05 //ESR
   250 //Rating
-  135 //position X
+  132 //position X
   48 //position Y
   T  //Is Horizontal
   1 //StepMode
@@ -209,7 +155,7 @@ Load resistance [ohms]
  4 //RefDes
    //Part#
   0.00018 //Value
-  1 //ESR
+  0.9 //ESR
   300 //Rating
   138 //position X
   56 //position Y
@@ -228,17 +174,17 @@ Load resistance [ohms]
  2 //PartType
  1 //RefDes
    //Part#
-  0.00121 //Value
-  0.35 //ESR
+  0.0012 //Value
+  0.55 //ESR
   300 //Rating
   124 //position X
   56 //position Y
   F  //Is Horizontal
   2 //StepMode
   1 //0short/1val/2open
-  0 //Subckt#,-1 if none
-R /(2*pi*freq*Q)
-0.35
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
   F  //Is HighSpec
   0 //Specd component manuf tolerance
   0 //Search tolerance for nom values
@@ -248,7 +194,7 @@ R /(2*pi*freq*Q)
  1 //PartType
  3 //RefDes
    //Part#
-  1.69E-5 //Value
+  1.8E-5 //Value
   0.005 //ESR
   250 //Rating
   121 //position X
@@ -256,9 +202,9 @@ R /(2*pi*freq*Q)
   T  //Is Horizontal
   2 //StepMode
   1 //0short/1val/2open
-  0 //Subckt#,-1 if none
-Q /(2*pi*freq*R)
-0.005
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
   F  //Is HighSpec
   0 //Specd component manuf tolerance
   0 //Search tolerance for nom values
@@ -268,17 +214,17 @@ Q /(2*pi*freq*R)
  2 //PartType
  3 //RefDes
    //Part#
-  0.000909 //Value
-  0.35 //ESR
+  0.0009 //Value
+  0.16 //ESR
   300 //Rating
   128 //position X
   72 //position Y
   T  //Is Horizontal
   2 //StepMode
   1 //0short/1val/2open
-  1 //Subckt#,-1 if none
-R /(2*pi*freq*Q)
-0.35
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
   F  //Is HighSpec
   0 //Specd component manuf tolerance
   0 //Search tolerance for nom values
@@ -288,7 +234,7 @@ R /(2*pi*freq*Q)
  1 //PartType
  5 //RefDes
    //Part#
-  2.87E-5 //Value
+  3E-5 //Value
   0.005 //ESR
   250 //Rating
   133 //position X
@@ -296,9 +242,29 @@ R /(2*pi*freq*Q)
   F  //Is Horizontal
   2 //StepMode
   1 //0short/1val/2open
-  1 //Subckt#,-1 if none
-Q /(2*pi*freq*R)
-0.005
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
+  F  //Is HighSpec
+  0 //Specd component manuf tolerance
+  0 //Search tolerance for nom values
+  0 //ESR tolerance for search
+  0 //Tolerance of chosen part tol
+   //vendor of part number
+ 0 //PartType
+ 2 //RefDes
+   //Part#
+  2.4 //Value
+  -1 //ESR
+  20 //Rating
+  129 //position X
+  53 //position Y
+  T  //Is Horizontal
+  1 //StepMode
+  1 //0short/1val/2open
+  -1 //Subckt#,-1 if none
+  //No Subckt equation1
+  //No Subckt equation2
   F  //Is HighSpec
   0 //Specd component manuf tolerance
   0 //Search tolerance for nom values
@@ -331,7 +297,7 @@ Q /(2*pi*freq*R)
  124 //position X
   59 //position Y
   -1 //Subckt#,-1 if none
-13 //Wires
+12 //Wires
 5 //Lines Per Wire
  144 //End1 X
   53 //End1 Y
@@ -348,31 +314,11 @@ Q /(2*pi*freq*R)
   144 //End2 X
   53 //End2 Y
   -1 //Subckt#,-1 if none
- 132 //End1 X
-  48 //End1 Y
-  132 //End2 X
-  53 //End2 Y
-  -1 //Subckt#,-1 if none
- 124 //End1 X
-  53 //End1 Y
-  131 //End2 X
-  53 //End2 Y
-  0 //Subckt#,-1 if none
- 118 //End1 X
-  59 //End1 Y
-  131 //End2 X
-  59 //End2 Y
-  0 //Subckt#,-1 if none
  131 //End1 X
   72 //End1 Y
   138 //End2 X
   72 //End2 Y
-  1 //Subckt#,-1 if none
- 125 //End1 X
-  78 //End1 Y
-  138 //End2 X
-  78 //End2 Y
-  1 //Subckt#,-1 if none
+  -1 //Subckt#,-1 if none
  117 //End1 X
   53 //End1 Y
   117 //End2 X
@@ -388,54 +334,33 @@ Q /(2*pi*freq*R)
   118 //End2 X
   53 //End2 Y
   -1 //Subckt#,-1 if none
- 131 //End1 X
-  53 //End1 Y
-  132 //End2 X
-  53 //End2 Y
-  -1 //Subckt#,-1 if none
  117 //End1 X
   72 //End1 Y
   125 //End2 X
   72 //End2 Y
   -1 //Subckt#,-1 if none
-6 //Texts
+ 124 //End1 X
+  53 //End1 Y
+  126 //End2 X
+  53 //End2 Y
+  -1 //Subckt#,-1 if none
+ 135 //End1 X
+  48 //End1 Y
+  138 //End2 X
+  48 //End2 Y
+  -1 //Subckt#,-1 if none
+ 126 //End1 X
+  48 //End1 Y
+  129 //End2 X
+  48 //End2 Y
+  -1 //Subckt#,-1 if none
+ 126 //End1 X
+  48 //End1 Y
+  126 //End2 X
+  53 //End2 Y
+  -1 //Subckt#,-1 if none
+0 //Texts
 6 //Lines Per Text
-In
-  119 //position X
-  56 //position Y
-  8 //Size
-  8388608 //color
-  0 //Subckt#,-1 if none
-out
-  130 //position X
-  56 //position Y
-  8 //Size
-  8388608 //color
-  0 //Subckt#,-1 if none
-General High Pass, 2nd Order
-  125 //position X
-  49 //position Y
-  8 //Size
-  8388608 //color
-  0 //Subckt#,-1 if none
-In
-  126 //position X
-  75 //position Y
-  8 //Size
-  8388608 //color
-  1 //Subckt#,-1 if none
-out
-  137 //position X
-  75 //position Y
-  8 //Size
-  8388608 //color
-  1 //Subckt#,-1 if none
-General Low Pass, 2nd Order
-  132 //position X
-  67 //position Y
-  8 //Size
-  8388608 //color
-  1 //Subckt#,-1 if none
 2 //Drivers
 34 //Lines Per Driver
 !Driver 0
